@@ -75,7 +75,7 @@
     <string name="settings_ocr_languages_installed">Installées</string>
     <string name="settings_ocr_suggested">Suggéré</string>
     <string name="settings_section_ocr">Reconnaissance de texte</string>
-    <string name="settings_section_scan">Scan</string>
+    <string name="settings_section_scan">balayage</string>
     <string name="settings_section_export">Export</string>
     <string name="share">Partager</string>
     <string name="share_document">Partager le document</string>
@@ -93,10 +93,12 @@
     <string name="yes">Oui</string>
     <plurals name="files_saved_to" tools:ignore="MissingQuantity">
         <item quantity="one">%2$s enregistré dans %3$s</item>
+        <item quantity="many">%1$d de fichiers enregistrés dans %3$s</item>
         <item quantity="other">%1$d fichiers enregistrés dans %3$s</item>
     </plurals>
     <plurals name="importing_photos" tools:ignore="MissingQuantity">
-        <item quantity="one">Import de %d photo</item>
+        <item quantity="one">Import de 1 photo</item>
+        <item quantity="many">Import de %d photo</item>
         <item quantity="other">Import de %d photos</item>
     </plurals>
     <plurals name="page_count" tools:ignore="MissingQuantity">
