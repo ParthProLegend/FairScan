@@ -1,7 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about">O aplikaci</string>
     <string name="add_page">Přidat stránku</string>
-    <string name="app_tagline">Jednoduchá a respektující aplikace pro skenování vašich dokumentů</string>
+    <string name="app_tagline">Jednoduchá a respektující aplikace pro skenování vašich dokumentů.</string>
     <string name="apply">Použít</string>
     <string name="back">Zpět</string>
     <string name="black_and_white_jpeg_hint">Černobílé stránky by byly menší a ostřejší, kdyby byly exportovány do PDF.</string>
@@ -103,9 +104,13 @@
         <item quantity="other">Importování %d fotografií</item>
     </plurals>
     <plurals name="page_count">
-        <item quantity="one">%d stránka</item>     <!-- 1 -->
-        <item quantity="few">%d stránky</item>     <!-- 2–4 -->
-        <item quantity="many">%d stránek</item>    <!-- 0, 5–... -->
-        <item quantity="other">%d stránky</item>   <!-- fallback -->
-     </plurals>
+        <item quantity="one">%d stránka</item>
+        <!-- 1 -->
+        <item quantity="few">%d stránky</item>
+        <!-- 2–4 -->
+        <item quantity="many">%d stránek</item>
+        <!-- 0, 5–... -->
+        <item quantity="other">%d stránky</item>
+        <!-- fallback -->
+    </plurals>
 </resources>
