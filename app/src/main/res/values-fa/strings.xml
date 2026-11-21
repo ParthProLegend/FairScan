@@ -94,7 +94,7 @@
     </plurals>
     <plurals name="page_count">
         <item quantity="one">%d صفحه</item>
-        <item quantity="other">%d صفحه</item>
+        <item quantity="other">%d صفحات</item>
     </plurals>
     <string name="error_no_app">برنامه‌ای برای باز کردن این پرونده یافت نشد</string>
     <string name="error_occurred">خطایی رخ داد</string>
