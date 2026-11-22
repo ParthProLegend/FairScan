@@ -15,7 +15,7 @@
     <string name="color_mode_color">Màu sắc</string>
     <string name="color_mode_default">Bộ lọc mặc định</string>
     <string name="color_mode_grayscale">Thang độ xám</string>
-    <string name="app_tagline">Một ứng dụng quét tài liệu đơn giản, tôn trọng người dùng.</string>
+    <string name="app_tagline">Ứng dụng quét tài liệu đơn giản và tôn trọng người dùng.</string>
     <string name="contact">Liên hệ</string>
     <string name="copied_logs">Nhật ký đã được sao chép vào bộ nhớ tạm</string>
     <string name="copy_logs">Sao chép nhật ký</string>
@@ -92,7 +92,7 @@
     <string name="view_the_full_license">Xem giấy phép đầy đủ</string>
     <string name="yes">Có</string>
     <plurals name="files_saved_to">
-        <item quantity="other">%2$s đã được lưu vào %3$s;%1$d tệp đã được lưu vào %3$s</item>
+        <item quantity="other">%1$d tệp đã được lưu vào %3$s</item>
     </plurals>
     <plurals name="importing_photos">
         <item quantity="other">Đang nhập %d ảnh</item>
